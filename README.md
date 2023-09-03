@@ -68,5 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The nanoGPT project is powered by the GPT-3.5 model developed by OpenAI.
 
 ---
-
-**Note**: This README is a template and should be customized to match the specifics of your project.
